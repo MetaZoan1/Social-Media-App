@@ -1,1 +1,1 @@
-# Placeholder-Name
+# Social Media App
